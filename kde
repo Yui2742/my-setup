@@ -1,1 +1,7 @@
+#enable numlock sddm on kde plasma 
+#____________________
+#go to /etc/sddm.conf
+#____________________
 
+[General]
+Numlock=on
