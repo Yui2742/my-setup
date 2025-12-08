@@ -1,0 +1,5 @@
+yay -S spotify spicetify-cli //install spotify
+sudo chmod a+wr /opt/spotify
+sudo chmod -R a+wr /opt/spotify/Apps
+spicetify backup apply
+spicetify apply
